@@ -1,7 +1,3 @@
-# Validation Branch
-
-## Overview
-
 This branch implements client-side form validation using JavaScript.
 
 ## Features Implemented
